@@ -27,7 +27,7 @@ Para fins de predição, foram avaliados os seguintes modelos com base na métri
 * XGBoost
 * LightGBM
 
-[Projeto completo](https://github.com/cunhajessica/Detectar_fraudes_em_cartao_de_credito/blob/main/Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito_v2.ipynb)
+[Projeto completo](https://colab.research.google.com/github/cunhajessica/Churn_Prediction/blob/main/Churn_Prediction_para_uma_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb)
 
 **Links:**
 
